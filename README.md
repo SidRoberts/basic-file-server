@@ -1,4 +1,4 @@
-# `basic-file-server`
+# [`basic-file-server`](https://hub.docker.com/r/sidroberts/basic-file-server)
 
 Quickly create a basic HTTP file server for the current directory.
 
